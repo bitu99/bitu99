@@ -15,3 +15,9 @@ You can click the Preview link to take a look at your changes.
 ![bitu99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bitu99&theme=vue-dark&hide_border=true)
 
 ![bitu99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitu99&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+## Connect with me:
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-pandey-5a53791b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-8504b122a" height="30" width="40" /></a>
+</p>
